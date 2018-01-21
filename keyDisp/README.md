@@ -2,4 +2,5 @@
 ---
 ### Created by ayunami2000
 
-## [Download](keyDisp.ahk)
+## [Download](keyDisp.exe)
+### [Download .ahk](keyDisp.ahk)
